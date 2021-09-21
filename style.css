@@ -10,3 +10,10 @@ header {
     height:30vh;
     border:solid 1 px lightgray
 }
+
+main {
+    height:30vh;
+    border:solid 1 px lightgray
+    font-size:1.5rem;
+    overflow:scroll;
+}
